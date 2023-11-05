@@ -1,6 +1,6 @@
 # Hands on React 1 day 26 Dibimbing
 
-Learning React using with
+Learning React using vite
 
 1. How to install react using vite
 2. How to render html code on react
