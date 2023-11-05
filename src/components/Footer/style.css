@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+}
+
+.footer-wrapper {
+	background: black;
+}
+
+.footer {
+	max-width: 1000px;
+	margin: auto;
+	display: flex;
+	color: white;
+	justify-content: space-between;
+}
+
+.footer-right {
+	display: flex;
+	gap: 80px;
+}
